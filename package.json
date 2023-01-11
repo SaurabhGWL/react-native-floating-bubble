@@ -1,6 +1,6 @@
 {
-  "name": "saurabhgwl-react-native-floating-bubble",
-  "version": "3.0.8",
+  "name": "react-native-floating-bubble",
+  "version": "3.0.9",
   "description": "Floating bubbles for React Native",
   "main": "index.js",
   "scripts": {
