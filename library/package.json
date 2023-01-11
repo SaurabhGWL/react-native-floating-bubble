@@ -14,9 +14,6 @@
   "peerDependencies": {
     "react-native": "^0.41.2"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/SaurabhGWL/react-native-floating-bubble/tree/master.git"
